@@ -7,7 +7,9 @@ The network exists on the Bitcoin Cash Simple
 Ledger Protocol network and blockchain.
 
 ADVANCED VIRTUAL AUTOMATED COIN [AVATM]
-7bc9fd4f3a7fc27b0b237f8cdc24ab00628872e17a4f6eebd76bf3c27e25e3f3
+4c6d41e01ad48a9cd6edb2c93c9811715a9e45f01b306180dcdc919e475e405f
+https://simpleledger.info/token/4c6d41e01ad48a9cd6edb2c93c9811715a9e45f01b306180dcdc919e475e405f
+
   
   The Coin is the medium of exchange for the network that exists in 
 the physical or "Parent" Universe. It can be stored in an SLP compatible Wallet.
@@ -18,6 +20,8 @@ value in relation to the physical Universe where the User of the System Exists 4
 physically.
 
 ADVANCED VIRTUAL AUTOMATED TOKEN [AVAT]
+7bc9fd4f3a7fc27b0b237f8cdc24ab00628872e17a4f6eebd76bf3c27e25e3f3
+https://simpleledger.info/token/7bc9fd4f3a7fc27b0b237f8cdc24ab00628872e17a4f6eebd76bf3c27e25e3f3
 
 The Token(AVAT) is the medium of exchange for the network that exists in
 the virtual or "Child" Universe. This can be stored in Wallets that are still 
